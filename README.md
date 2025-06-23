@@ -1,5 +1,5 @@
-Leave Management System (Spring Boot + MySQL + Redis + Kafka)
-
+**Leave Management System (Spring Boot + MySQL + Redis + Kafka)
+**
 This is a Spring Boot-based Leave Management System that supports two types of users:
 
 1. Manager
